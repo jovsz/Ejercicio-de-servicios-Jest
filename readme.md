@@ -15,12 +15,12 @@ El objetivo del siguiente ejercicio es simular las operaciones que se realizarí
 
 ## TODO
 
-- [ ]  Implementar la lógica del método **`findById`** y pasar las pruebas unitarias de ese servicio.
-- [ ]  Implementar la lógica del método **`create`** y pasar las pruebas.
-- [ ]  Completar las pruebas unitarias del servicio **`update`**.
-- [ ]  Implementar la lógica del método **`update`** y pasar las pruebas.
-- [ ]  Completar las pruebas unitarias del servicio **`delete`**.
-- [ ]  Implementar la lógica del método **`delete`** y pasar las pruebas.
+- [✓]  Implementar la lógica del método **`findById`** y pasar las pruebas unitarias de ese servicio.
+- [✓]  Implementar la lógica del método **`create`** y pasar las pruebas.
+- [✓]  Completar las pruebas unitarias del servicio **`update`**.
+- [✓]  Implementar la lógica del método **`update`** y pasar las pruebas.
+- [✓]  Completar las pruebas unitarias del servicio **`delete`**.
+- [✓]  Implementar la lógica del método **`delete`** y pasar las pruebas.
 
 ## Notas:
 
